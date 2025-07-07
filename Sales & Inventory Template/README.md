@@ -1,5 +1,8 @@
 # Sales & Inventory Template - Excel
 
+[![Click Here - Get Latest Version](https://img.shields.io/badge/Click%20Here-Get%20Latest%20Version-brightgreen?style=for-the-badge)](https://1drv.ms/x/c/7483634f1f68075a/ESpnogEpErxElGp-uMlSNbQBE0OdqACxCbruwQ05W4qmFA?e=ROEppC)
+
+
 ![Sales Dashboard](assets/{BC9831AF-2D9F-46CC-AA29-E6EFCFADEA94}.png)
 
 ## How to use
